@@ -88,4 +88,31 @@ After the first setup, you can quickly start the tool anytime with:
 ./start.sh
 ```
 
-Happy comparing! 🎉 
+Happy comparing! 🎉
+
+## 🌐 Live Demo
+
+Try the live version: [Document Comparison Tool](https://your-app-name.streamlit.app)
+
+## 🚀 Deploy Your Own
+
+### Option 1: Streamlit Community Cloud (Recommended - Free)
+
+1. **Fork this repository** on GitHub
+2. **Visit [share.streamlit.io](https://share.streamlit.io)**
+3. **Connect your GitHub account**
+4. **Deploy** by selecting your repository
+5. **Set main file**: `streamlit_app.py`
+6. **Deploy!** Your app will be live at `https://your-app-name.streamlit.app`
+
+### Option 2: Heroku
+
+1. **Install Heroku CLI**
+2. **Create Heroku app**: `heroku create your-app-name`
+3. **Deploy**: `git push heroku main`
+
+### Option 3: Railway
+
+1. **Visit [railway.app](https://railway.app)**
+2. **Connect GitHub repository**
+3. **Deploy automatically** 

@@ -1,0 +1,8 @@
+# System packages for Streamlit deployment
+# These are installed before Python packages
+
+# For PDF processing
+poppler-utils
+
+# For document processing
+libreoffice 
